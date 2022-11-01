@@ -5,13 +5,8 @@
 # QQ:915155536
 # File :demo1.py
 #  ===========================
-import unittest
-
-print('hello!!!')
 
 
-class Test(unittest.TestCase):
-    def test_01(self):
-        assert 1 > 2
+
 
 
